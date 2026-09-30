@@ -51,9 +51,9 @@ Practical Labs| ⏳ Upcoming
 
 🔗 Profile
 
-TryHackMe: [Add your TryHackMe profile link here]
+TryHackMe: [https://tryhackme.com/p/gkavitha.dev]
 
-GitHub: [Add your GitHub profile link here]
+GitHub: [https://github.com/gkavithagit/tryhackme-journey.git]
 
 ---
 
